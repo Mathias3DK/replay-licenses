@@ -1,4 +1,9 @@
 {
   "global_enabled": true,
-  "servers": {}
-}
+  "servers": {
+    "VW5rbm93biBTZXJ2": {
+      "enabled": true,
+      "server_name": "koldskal",
+      "owner": "koldskal",
+      "message": "Premium license"
+    },
